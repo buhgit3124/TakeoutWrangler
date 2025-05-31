@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "SetUpdateInfo": {
-      "commandName": "Project",
-      "commandLineArgs": "-root='$(SolutionDir)' -args='$[root]Installers\\buildsetupargs.txt'"
-    }
-  }
-}
