@@ -1,4 +1,1 @@
-PhotoCopyLibrary
-ExifDataLibrary
-TakeoutWranglerUI
-TakeoutWranglerCmdline
+ddd
